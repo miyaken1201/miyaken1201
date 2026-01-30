@@ -1,4 +1,4 @@
-## I'm Remote Sensing　graduate student in Japan
+## I'm Remote Sensing graduate student in Japan
 ### Please follow my account✨👋
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyaken1201&exclude_repo=miyaken1201/miyaken1201&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
