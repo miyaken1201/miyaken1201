@@ -6,11 +6,9 @@
 
   <br>
   <div>
-    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Japan_(bordered).svg" height="28" style="vertical-align: middle;" alt="Japan Flag" />
-    <a href="https://www.se.chiba-u.jp/">
-      <img src="https://img.shields.io/badge/Chiba_University-Graduate_Student-A6192E?style=for-the-badge&logo=school&logoColor=white" alt="Chiba University" />
-    </a>
-  </div>
+  <a href="https://www.se.chiba-u.jp/"><img src="https://img.shields.io/badge/Chiba_University-Graduate_Student-A6192E?style=for-the-badge&logo=school&logoColor=white" alt="Chiba University" /></a>
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Japan_(bordered).svg" height="28" style="vertical-align: middle;" alt="Japan Flag" />
+</div>
   <div>
     <a href="https://ceres.chiba-u.jp/">
       <img src="https://img.shields.io/badge/CEReS-Center_for_Environmental_Remote_Sensing-006F5F?style=for-the-badge&logo=satellite&logoColor=white" alt="CEReS" />
