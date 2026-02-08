@@ -1,12 +1,42 @@
-## I'm Remote Sensing graduate student in Japan
-### Please follow my account✨👋
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats-omega-three-74.vercel.app/api/top-langs/?username=miyaken1201&exclude_repo=miyaken1201/miyaken1201&layout=compact&count_private=true&show_icons=true&theme=tokyonight" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats-omega-three-74.vercel.app/api?username=miyaken1201&exclude_repo=miyaken1201/miyaken1201&count_private=true&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-[![trophy](https://github-profile-trophy-bqxi.vercel.app/?username=miyaken1201&exclude_repo=miyaken1201/miyaken1201&theme=tokyonight&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+  <a href="https://github.com/miyaken1201">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Kento+Miyazawa.;Graduate+Student+in+Japan;" alt="Typing SVG" />
+  </a>
+  <a href="https://www.chiba-u.ac.jp/">
+    <img src="https://img.shields.io/badge/Chiba_University-Graduate_Student-A6192E?style=for-the-badge&logo=school&logoColor=white" alt="Chiba University" />
+  </a>
+  
+  <br><br>
 
+  <p>
+    Focusing on <b>AI Weather Prediction</b>, <b>Satellite Image Analysis</b>, and <b>Data Assimilation (LETKF)</b>.
+  </p>
 
-# NOW TRAINING
-<img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,laravel,docker,vscode,github" /> <br /><br />
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+    <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  </p>
+
+  <br>
+
+  <h3>🚀 NOW TRAINING</h3>
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,laravel,docker,vscode,github&theme=dark" />
+  <br /><br />
+
+  <a href="https://github.com/miyaken1201">
+    <img height="160em" src="https://github-readme-stats-omega-three-74.vercel.app/api?username=miyaken1201&exclude_repo=miyaken1201/miyaken1201&count_private=true&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7&hide_border=true" />
+    <img height="160em" src="https://github-readme-stats-omega-three-74.vercel.app/api/top-langs/?username=miyaken1201&exclude_repo=miyaken1201/miyaken1201&layout=compact&count_private=true&show_icons=true&theme=tokyonight&bg_color=1a1b26&title_color=7aa2f7&text_color=a9b1d6&icon_color=7aa2f7&hide_border=true" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-bqxi.vercel.app/?username=miyaken1201&exclude_repo=miyaken1201/miyaken1201&theme=tokyonight&column=7&no-frame=true&margin-w=15" alt="miyaken1201's trophies" />
+  </a>
+
+</div>
