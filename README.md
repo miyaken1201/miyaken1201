@@ -35,7 +35,7 @@
   <br>
 
   <h3>🚀 NOW TRAINING</h3>
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,laravel,docker,vscode,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,php,mysql,laravel,docker,linux&theme=dark" />
   <br /><br />
 
   <a href="https://github.com/miyaken1201">
