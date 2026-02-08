@@ -1,7 +1,7 @@
 <div align="center">
 
   <a href="https://github.com/miyaken1201">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&speed=5&pause=500&color=7AA2F7&center=true&vCenter=true&width=660&lines=Hi+there!+%F0%9F%91%8B;I'm+Kento+Miyazawa.;Graduate+Student+in+Japan+%F0%9F%87%AF%F0%9F%87%B5;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&speed=5&pause=500&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Kento+Miyazawa.;Graduate+Student+in+Japan+%F0%9F%87%AF%F0%9F%87%B5;" alt="Typing SVG" />
 </a>
 
   <br>
