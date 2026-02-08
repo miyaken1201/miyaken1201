@@ -1,9 +1,9 @@
 <div align="center">
 
   <a href="https://github.com/miyaken1201">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Kento+Miyazawa.;Graduate+Student+in+Japan;" alt="Typing SVG" />
-  </a>
-  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&speed=5&pause=500&color=7AA2F7&center=true&vCenter=true&width=660&lines=Hi+there!+%F0%9F%91%8B;I'm+Kento+Miyazawa.;Graduate+Student+in+Japan+%F0%9F%87%AF%F0%9F%87%B5;" alt="Typing SVG" />
+</a>
+
   <br>
 
   <a href="https://www.chiba-u.ac.jp/">
@@ -11,7 +11,7 @@
   </a>
   <br>
   <a href="https://ceres.chiba-u.jp/">
-    <img src="https://img.shields.io/badge/CEReS-006F5F?style=for-the-badge&logo=satellite&logoColor=white" alt="CEReS" />
+    <img src="https://img.shields.io/badge/CEReS-Center_for_Environmental_Remote_Sensing-006F5F?style=for-the-badge&logo=satellite&logoColor=white" alt="CEReS" />
   </a>
    
   <br><br>
@@ -20,7 +20,7 @@
     Focusing on <br>
     <b>🤖🌦️ AI Weather Prediction</b> &nbsp;|&nbsp; 
     <b>🛰️📷 Satellite Image Analysis</b> &nbsp;|&nbsp; 
-    <b>📊🔄 Data Assimilation (LETKF)</b>
+    <b>🔄📊 Data Assimilation (LETKF)</b>
   </p>
 
   <p>
@@ -35,7 +35,7 @@
   <br>
 
   <h3>🚀 NOW TRAINING</h3>
-  <img src="https://skillicons.dev/icons?i=python,cpp,php,mysql,laravel,docker,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,mysql,laravel,docker,vscode,github&theme=dark" />
   <br /><br />
 
   <a href="https://github.com/miyaken1201">
