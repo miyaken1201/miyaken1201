@@ -1,18 +1,21 @@
 <div align="center">
 
   <a href="https://github.com/miyaken1201">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&speed=5&pause=500&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Kento+Miyazawa.;Graduate+Student+in+Japan+%F0%9F%87%AF%F0%9F%87%B5;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&speed=5&pause=500&color=7AA2F7&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Kento+Miyazawa.;" alt="Typing SVG" />
 </a>
 
   <br>
-
-  <a href="https://www.chiba-u.ac.jp/">
-    <img src="https://img.shields.io/badge/Chiba_University-Graduate_Student-A6192E?style=for-the-badge&logo=school&logoColor=white" alt="Chiba University" />
-  </a>
-  <br>
-  <a href="https://ceres.chiba-u.jp/">
-    <img src="https://img.shields.io/badge/CEReS-Center_for_Environmental_Remote_Sensing-006F5F?style=for-the-badge&logo=satellite&logoColor=white" alt="CEReS" />
-  </a>
+  <div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" width="  40" style="border: 5px solid #000000; vertical-align: middle; margin-right: 8px;" alt="Japan Flag" />
+    <a href="https://www.se.chiba-u.jp/">
+      <img src="https://img.shields.io/badge/Chiba_University-Graduate_Student-A6192E?style=for-the-badge&logo=school&logoColor=white" alt="Chiba University" />
+    </a>
+  </div>
+  <div>
+    <a href="https://ceres.chiba-u.jp/">
+      <img src="https://img.shields.io/badge/CEReS-Center_for_Environmental_Remote_Sensing-006F5F?style=for-the-badge&logo=satellite&logoColor=white" alt="CEReS" />
+    </a>
+  </div>
    
   <br><br>
 
