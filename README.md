@@ -11,7 +11,7 @@
   </a>
   <br>
   <a href="https://ceres.chiba-u.jp/">
-    <img src="https://img.shields.io/badge/CEReS-Center_for_Environmental_Remote_Sensing-006F5F?style=for-the-badge&logo=satellite&logoColor=white" alt="CEReS" />
+    <img src="https://img.shields.io/badge/CEReS-006F5F?style=for-the-badge&logo=satellite&logoColor=white" alt="CEReS" />
   </a>
    
   <br><br>
