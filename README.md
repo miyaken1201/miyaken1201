@@ -6,7 +6,7 @@
 
   <br>
   <div>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Flag_of_Japan.svg" width="  40" style="border: 5px solid #000000; vertical-align: middle; margin-right: 8px;" alt="Japan Flag" />
+    <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Flag_of_Japan_(bordered).svg" height="28" style="vertical-align: middle;" alt="Japan Flag" />
     <a href="https://www.se.chiba-u.jp/">
       <img src="https://img.shields.io/badge/Chiba_University-Graduate_Student-A6192E?style=for-the-badge&logo=school&logoColor=white" alt="Chiba University" />
     </a>
