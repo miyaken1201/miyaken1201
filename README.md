@@ -20,7 +20,7 @@
     Focusing on <br>
     <b>🤖🌦️ AI Weather Prediction</b> &nbsp;|&nbsp; 
     <b>🛰️📷 Satellite Image Analysis</b> &nbsp;|&nbsp; 
-    <b>🔄📊 Data Assimilation (LETKF)</b>
+    <b>🔄📊 Data Assimilation</b>
   </p>
 
   <p>
