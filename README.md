@@ -15,7 +15,7 @@
   </div>
   <div>
     <a href="https://miyaken1201.github.io/">
-      <img src="https://img.shields.io/badge/Portfolio-Personal_Website-4B0082?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-Github_Pages-4B0082?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
   </div>
    
